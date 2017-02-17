@@ -8,3 +8,5 @@ test
 複数人で管理してみた
 
 pull requestやってみた
+
+ogawa
